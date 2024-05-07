@@ -1,0 +1,35 @@
+.mainCombo1 {
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.imgCombo1 img {
+    width: 50%;
+}
+
+.itensCombo1 h4 {
+    padding: 7px 0;
+}
+
+.itensCombo1 p {
+    padding: 7px 0;
+    text-align: justify;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.itensCombo1 ul li {
+    font-size: 18px;
+    padding-right: 20px;
+}
+
+input {
+    margin-right: 10px;
+    cursor: pointer;
+}
