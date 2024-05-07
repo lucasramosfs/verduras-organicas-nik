@@ -1,5 +1,5 @@
 import React from "react";
-import "../../assets/css/PageNotFound/index.css";
+import "../../assets/css/pageNotFound/index.css";
 
 function PageNotFound() {
     return (
